@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.d3227bd3.css",
+    "main.js": "/Portafolio/static/js/main.34b1e284.js",
+    "static/media/background.png": "/Portafolio/static/media/background.d5680542917767edad47.png",
+    "static/media/herramientasWeb.png": "/Portafolio/static/media/herramientasWeb.3bc7a2aeb7885d06f939.png",
+    "static/media/CertificadoMasterClass.pdf": "/Portafolio/static/media/CertificadoMasterClass.c06bffcdce05942d97ab.pdf",
+    "static/media/CertificadoSemanaCiencia.pdf": "/Portafolio/static/media/CertificadoSemanaCiencia.04f3aa350b1e63a5b725.pdf",
+    "static/media/semanaCiencia.png": "/Portafolio/static/media/semanaCiencia.e4d47872eeadb10e8692.png",
+    "static/media/masterClass.png": "/Portafolio/static/media/masterClass.430c4027939d58506885.png",
+    "static/media/mision.png": "/Portafolio/static/media/mision.5313f013eb5014d00c46.png",
+    "static/media/portfolio.png": "/Portafolio/static/media/portfolio.3310c99cb74c4a98c86d.png",
+    "static/media/CertificadoAprendeJavaScript.pdf": "/Portafolio/static/media/CertificadoAprendeJavaScript.18bf2443590b2cc77301.pdf",
+    "static/media/AprendeJavaScript.jpg": "/Portafolio/static/media/AprendeJavaScript.561ddfee6362028698d4.jpg",
+    "static/media/rickAndMorty.png": "/Portafolio/static/media/rickAndMorty.946f584ba2224325d8d4.png",
+    "static/media/contact.jpg": "/Portafolio/static/media/contact.37c26b2c58abcddb45fe.jpg",
+    "static/media/CV_AcxelAmbrosi.pdf": "/Portafolio/static/media/CV_AcxelAmbrosi.efc672db65b1afb99eb3.pdf",
+    "static/media/backgroundMobile2.png": "/Portafolio/static/media/backgroundMobile2.2462e259e259c925fdf1.png",
+    "static/media/CertificadoHerramientasWeb.pdf": "/Portafolio/static/media/CertificadoHerramientasWeb.2378bc7c3ed03b66217f.pdf",
+    "static/media/pern.png": "/Portafolio/static/media/pern.ee2c67dbfc5b1fc0cf89.png",
+    "static/media/profile.jpg": "/Portafolio/static/media/profile.c6a77b40ff461d830de6.jpg",
+    "static/media/postgresql.png": "/Portafolio/static/media/postgresql.aab5f47bdb7c3af86480.png",
+    "static/media/tailwindcss.png": "/Portafolio/static/media/tailwindcss.42873a712793c03a6610.png",
+    "index.html": "/Portafolio/index.html",
+    "main.d3227bd3.css.map": "/Portafolio/static/css/main.d3227bd3.css.map",
+    "main.34b1e284.js.map": "/Portafolio/static/js/main.34b1e284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3227bd3.css",
+    "static/js/main.34b1e284.js"
+  ]
+}
